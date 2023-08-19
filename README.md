@@ -1,4 +1,4 @@
-![image](https://github.com/Profiler0/Threat-Actor-Profiling/assets/77783/5b7168da-208b-28c-976a-756028f6b30)# Threat-Actor-Profiling
+
 Threat Actor Profiling for various threat actors
 
 **Clop Ransomware -  Clop Ransomware Evolution Timeline - Brains Behind Clop https://hack2interesting.com/clop-ransomware/**
